@@ -1,0 +1,6 @@
+@import "./common/common.css";
+@import "./theme/variable.scss";
+@import "icon-font.min.css";
+@import "./components/login.css";
+@import "./components/registration.css";
+@import "fontawesome.css";

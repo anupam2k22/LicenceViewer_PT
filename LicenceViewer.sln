@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenceViewer", "LicenceViewer.csproj", "{50965B07-771E-45A0-B46B-94801DC11D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50965B07-771E-45A0-B46B-94801DC11D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50965B07-771E-45A0-B46B-94801DC11D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50965B07-771E-45A0-B46B-94801DC11D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50965B07-771E-45A0-B46B-94801DC11D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3A3C8D-80C0-427A-81C7-6994BD7CFBE8}
+	EndGlobalSection
+EndGlobal

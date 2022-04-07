@@ -1,0 +1,121 @@
+
+    .login .login-wrapper {
+         height:100vh;
+         vertical-align: middle;
+         justify-content: center;
+         align-items: center;
+         background: url("../../img/login-background.png");
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-position: top;
+         padding-right: 0px;
+         padding-left: 0px;
+    }
+    .login .card-wrapper {
+        height: calc(100vh - 18vh);
+    }  
+    .login-heading {
+        color: #fff;
+        font-size: 23px;
+    }
+    .login .forgot-password:hover {
+        color: #ff8504!important;
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    .login .forgot-password {
+        padding-top: 8px;
+    }
+    .login .card-footer {
+        border-top: 1px solid rgba(255, 255, 255, 0.085)!important;
+    }
+    .login .card-header {
+        /*border-bottom: 1px solid rgba(255, 255, 255, 0.085)!important;*/
+    }
+    .login .card{
+    height: 310px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0,0,0,0.75) !important;
+    box-shadow: 10px 25px 25px rgba(0,0,0,0.3);
+    }
+    .login .top-row {
+        padding: 25px 0px 0px 20px;
+    }
+.login .bottom-row {
+    padding: 25px 0px 0px 20px;
+}
+    .login .bottom-row img {
+        height: 40px;
+    }
+
+    .login .card-header h3{
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+    font-weight: normal;
+    }
+    .login .input-group {
+    margin-bottom: 1.5rem!important;
+    }
+    .login .input-group-append span{
+    /* width: 50px; */
+    background-color: white;
+    color: #000;
+    border:0 !important;
+    }
+    
+    .login input:focus{
+    outline: 0 0 0 0  !important;
+    box-shadow: 0 0 0 0 !important;
+    
+    }
+    .login .brand img {
+        height: 40px;
+    }
+    .login .invalid-field {
+        top: 6.5vh;
+    }
+    .login .remember{
+    color: white;
+    }
+    
+    .login .remember input
+    {
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+    }
+    
+    .login_btn{
+    color: white;
+    background-color: #ff8504;
+    width: 100px;
+    }
+    
+    .login_btn:hover{
+    color: black;
+    background-color: white;
+    }
+    
+    .login-links{
+    color: white;
+    }
+    
+    .login-links a{
+    margin-left: 4px;
+    color : #fff;
+    }
+@media (max-width: 768px ) {
+    .login .card {
+        height: 330px;
+}
+}
+@media (min-width: 575px ) {
+    .login .brand {
+        position: absolute;
+        top: 20px;
+    }
+}

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Software>
+  <SoftwareData>
+    <SoftwareName>Rubika</SoftwareName>
+  </SoftwareData>
+  <SoftwareData>
+    <SoftwareName>CIS</SoftwareName>
+  </SoftwareData>
+  <SoftwareData>
+    <SoftwareName>Solfusion</SoftwareName>
+  </SoftwareData>
+  <SoftwareData>
+    <SoftwareName>SEFAS</SoftwareName>
+  </SoftwareData>
+</Software>
+
+<Vendor>
+  <VendorData>
+    <VendorName>Solimar</VendorName>
+  </VendorData>
+  <VendorData>
+    <VendorName>Racami</VendorName>
+  </VendorData>
+</Vendor>
